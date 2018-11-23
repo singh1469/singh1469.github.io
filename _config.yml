@@ -14,11 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Cloud Eleven Digital
-email: h@cloudeleven.digital
+email: hello@cloudeleven.digital
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cloudeleven.digital" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: singh1469
 github_username:  singh1469
 
 # Build settings
